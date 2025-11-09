@@ -32,7 +32,7 @@ Run the notebook cells for each method. Set your API keys and PDF paths as neede
 
 ## Google Colab
 
-Try it interactively: [Extract Data Notebook](https://colab.research.google.com/drive/1S05o6CGhWDI7ZtZqUeozd-RZzQgTgfJh?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S05o6CGhWDI7ZtZqUeozd-RZzQgTgfJh?usp=sharing)
 
 ## Notes
 
